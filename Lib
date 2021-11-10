@@ -4,7 +4,7 @@
 #define MAX_YR  9999
 #define MIN_YR  1900
 #define MAX_SIZE_USER_NAME 30
-#define MAX_SIZE_PASSWORD  10
+#define MAX_SIZE_PASSWORD  20
 #define FILE_NAME  "AticleworldLibBookS.bin"
 // Macro related to the books info
 #define MAX_BOOK_NAME   50
